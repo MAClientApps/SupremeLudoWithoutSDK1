@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Supreme Ludo</string>
+
+    <bool name="is_testing">true</bool>
+    <string name="share_description">Try this new game</string>
+
+    <bool name="full_screen">true</bool>
+    <string name="image_content">image</string>
+
+    <bool name="need_connection">false</bool>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="txtRetry">Retry</string>
+
+    <integer name="splash_delay">5000</integer>
+</resources>

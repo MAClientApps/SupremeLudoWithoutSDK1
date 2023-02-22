@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72539038593",
+    "project_id": "supreme-ludo-3c33a",
+    "storage_bucket": "supreme-ludo-3c33a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72539038593:android:2755afc56528fe61d37e80",
+        "android_client_info": {
+          "package_name": "com.poojaludo.supremeludo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72539038593-i61sgtc3m06bv1kp4bjl4etm00phffkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPm9FhQbsZHq81Gun3X7jF30k7PGJkeJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72539038593-i61sgtc3m06bv1kp4bjl4etm00phffkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
